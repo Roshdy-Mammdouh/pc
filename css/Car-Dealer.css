@@ -311,6 +311,11 @@ img{
     max-height: 1000px;
     z-index: -1;
 }
+@media only screen and (max-width: 765px) {
+    .section1{
+
+    }
+}
 .section1 .container{
     padding-top: 140px;
 }
